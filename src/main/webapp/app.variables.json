@@ -28,8 +28,10 @@
     "name" : "supportedLocale",
     "owner" : "App",
     "category" : "wm.Variable",
+    "dataBinding" : [ ],
     "dataSet" : {
-      "en" : "English"
+      "en" : "English",
+      "af-na" : "Afrikaans (Namibië)"
     },
     "type" : "string",
     "isList" : false,

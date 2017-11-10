@@ -7,7 +7,7 @@ var _WM_APP_PROPERTIES = {
   "name" : "Auto_FsCoCDOLyi",
   "platformType" : "WEB",
   "securityEnabled" : "false",
-  "supportedLanguages" : "en",
+  "supportedLanguages" : "en,af-na",
   "timeFormat" : "",
   "type" : "APPLICATION",
   "version" : "1.0"
